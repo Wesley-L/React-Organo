@@ -6,21 +6,21 @@ const Footer = () => {
                 <ul className='list-icons'>
                     <li>
                         <a className='icon' href='https://www.facebook.com/'>
-                            <img src='/imagens/fb.png' />
+                            <img alt='' src='/imagens/fb.png' />
                         </a>
                     </li>
                     <li>
                         <a className='icon' href='https://twitter.com/'>
-                            <img src='/imagens/tw.png'/>
+                            <img alt='' src='/imagens/tw.png'/>
                         </a>
                     </li>
                     <li>
                         <a className='icon' href='https://www.instagram.com/'>
-                            <img src='/imagens/ig.png' />
+                            <img alt='' src='/imagens/ig.png' />
                         </a>    
                     </li>
                 </ul>
-            <img className='icon-organo' src='/imagens/logo.png' />
+            <img alt='' className='icon-organo' src='/imagens/logo.png' />
             <h1>
             Desenvolvido por Alura.
             </h1>
